@@ -5,16 +5,16 @@ const Home = () => {
 	return (
 		<div className="home-container">
 			<div className="welcome-banner">
-				<h2>Welcome to the Student Management System</h2>
-				<p className="subtitle">Your platform for managing students efficiently</p>
+				<h2>Welcome to the SGP Student Management System</h2>
+				<p className="subtitle">Our platform is designed to simplify and enhance the way educational institutions manage their daily operations. With a user-friendly interface and intuitive tools, educators can focus more on teaching while administrative tasks are handled seamlessly.</p>
 			</div>
 			<div className="features-section">
-				<h3>Key Features:</h3>
+				<h3>More About:</h3>
 				<ul>
 					<li>Manage student records</li>
-					<li>Track attendance and grades</li>
-					<li>Generate reports and analytics</li>
-					<li>Communicate with students and parents</li>
+					<li>Stay organized</li>
+					<li>improve communication</li>
+					<li>our platform provides the support you need to succeed.</li>
 				</ul>
 			</div>
 

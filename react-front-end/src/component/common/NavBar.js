@@ -6,7 +6,7 @@ const NavBar = () => {
 		<nav className="navbar  fixed-top navbar-expand-lg navbar-dark bg-dark mt-6">
 			<div className="container-fluid">
 				<Link className="navbar-brand" to={"/"}>
-					React Client
+					SGP CLIENT
 				</Link>
 				<button
 					className="navbar-toggler"
